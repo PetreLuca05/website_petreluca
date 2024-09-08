@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/website_petreluca/static/css/main.0894a361.css",
-    "main.js": "/website_petreluca/static/js/main.9ad1590d.js",
+    "main.css": "/website_petreluca/static/css/main.61756236.css",
+    "main.js": "/website_petreluca/static/js/main.ab3f6709.js",
     "static/media/code.png": "/website_petreluca/static/media/code.42a09336e2a5360f6d87.png",
+    "static/media/cde.png": "/website_petreluca/static/media/cde.76a171f05f3c5be79d88.png",
     "index.html": "/website_petreluca/index.html",
-    "main.0894a361.css.map": "/website_petreluca/static/css/main.0894a361.css.map",
-    "main.9ad1590d.js.map": "/website_petreluca/static/js/main.9ad1590d.js.map"
+    "main.61756236.css.map": "/website_petreluca/static/css/main.61756236.css.map",
+    "main.ab3f6709.js.map": "/website_petreluca/static/js/main.ab3f6709.js.map"
   },
   "entrypoints": [
-    "static/css/main.0894a361.css",
-    "static/js/main.9ad1590d.js"
+    "static/css/main.61756236.css",
+    "static/js/main.ab3f6709.js"
   ]
 }
